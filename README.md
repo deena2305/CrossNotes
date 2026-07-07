@@ -472,15 +472,5 @@ Built with amazing open-source technologies:
 
 Special thanks to the open-source community for making privacy-preserving AI accessible to everyone.
 
----
-
-## 📞 Contact & Support
-
-- **Repository**: [github.com/nareshAiNexus/crossnotes](https://github.com/nareshAiNexus/crossnotes)
-- **Author**: [nareshAiNexus](https://github.com/nareshAiNexus)
-- **Issues**: [GitHub Issues](https://github.com/nareshAiNexus/crossnotes/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/nareshAiNexus/crossnotes/discussions)
-
----
 
 <div align="center">
